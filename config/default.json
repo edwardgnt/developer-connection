@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://username:password@mern.mklic.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "mongoURI": "mongodb+srv://eddie123:eddie123@mern.mklic.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "sample": "sample"
 }
