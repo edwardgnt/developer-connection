@@ -76,8 +76,7 @@ const ProfileSchema = new mongoose.Schema({
                 required: true
             },
             current: {
-                type: String,
-                required: true
+                type: String
             },
             description: {
                 type: String
