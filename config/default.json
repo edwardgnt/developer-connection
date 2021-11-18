@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://sample:sample@mern.sample.sample.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "sample",
-    "githubClientId": "sample",
-    "githubSecret": "sample"
-}
